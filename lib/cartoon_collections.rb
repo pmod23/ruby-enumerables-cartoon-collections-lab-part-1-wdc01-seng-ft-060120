@@ -1,8 +1,6 @@
 def greet_characters(arr)
   arr.each do |e|
-    if (e=="")
-      next
-    end
+    
     puts "Hello " + e + "!"
   end
 end
