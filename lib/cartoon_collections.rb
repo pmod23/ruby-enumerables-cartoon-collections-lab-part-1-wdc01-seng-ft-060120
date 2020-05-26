@@ -6,6 +6,6 @@ end
 
 def list_dwarves(arr)
   arr.each_with_index do |e, i|
-    puts 
+    puts (i+1).to_s + ". " + e
   end
 end
