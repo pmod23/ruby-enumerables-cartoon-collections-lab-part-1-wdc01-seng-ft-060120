@@ -1,4 +1,4 @@
-def greet_characters()
+def greet_characters(arr)
   
 end
 
