@@ -4,6 +4,8 @@ def greet_characters(arr)
   end
 end
 
-def list_dwarves()
-  
+def list_dwarves(arr)
+  arr.each_with_index do |e, i|
+    puts 
+  end
 end
